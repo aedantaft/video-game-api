@@ -1,0 +1,36 @@
+[
+ {
+   "id": "NBA-2K-17-xbox-2016",
+   "title": "NBA 2K",
+   "genre": "Sports",
+   "type": "basketball",
+   "cover_art": "https://www.si.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTY4MTI4MTYxNzg2NTcwMTEy/nba-2k17-coverjpg.jpg",
+   
+ }, 
+  {
+    "id": "Madden-25-xbox-360-2013",
+   "title": "Madden",
+   "genre": "Sports",
+   "type": "football",
+   "cover_art": "https://m.media-amazon.com/images/I/71VKK4Vz8+L.jpg",
+   
+ }, 
+   {
+     "id": "Fifa-22-PS5-2021",
+   "title": "Fifa",
+   "genre": "Sports",
+   "type": "soccer",
+   "cover_art": "https://m.media-amazon.com/images/I/81mciIlvdTL._AC_UF1000,1000_QL80_.jpg",
+   
+ }, 
+   }, 
+   {
+     "id": "UFC-4-xbox-2020",
+   "title": "UFC",
+   "genre": "Sports",
+   "type": "mixed material arts",
+   "cover_art": "https://upload.wikimedia.org/wikipedia/en/3/35/UFC_4_cover_art.png",
+   
+ } 
+ 
+]
